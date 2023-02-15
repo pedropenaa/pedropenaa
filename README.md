@@ -22,6 +22,7 @@
    <img align="center" alt="pedro-sql"    height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
    <img align="center" alt="pedro-flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
    <img align="center" alt="pedro-jupter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg">
+   <img align="center" alt="pedro-postgres" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg">
  
 
 </div>
