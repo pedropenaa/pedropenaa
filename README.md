@@ -1,8 +1,11 @@
 
 ## Olá, eu sou o Pedro Pena
 
-- 🔭 I’m currently studying programming
-- 🌱 I’m currently learning Python 
+- 💻 Desenvolvedor Junior
+- 👨‍💻 Bacharel em Ciência da Computação
+- 📍Brasília - DF 
+
+
 
     ##
 
