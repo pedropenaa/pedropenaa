@@ -11,8 +11,8 @@
     
   <div>
     
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pedropenaa&show_icons=true&theme=dracula"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropenaa&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedropenaa&show_icons=true&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedropenaa&theme=dracula"/>
    </div>
   
 
