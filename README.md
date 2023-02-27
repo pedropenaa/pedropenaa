@@ -2,9 +2,10 @@
 ## Olá, eu sou o Pedro Pena
 
 - 💻 Desenvolvedor Python 
-- 👨‍💻 Bacharel em Ciência da Computação
+- 👨‍🎓 Bacharel em Ciência da Computação
 - 📍Brasília - DF 
 - 🤩 Interesses: Back end, automações, ciência de dados, inteligência artificial e machine learning
+-
 
 
 
